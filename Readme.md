@@ -6,3 +6,4 @@ I have made mistake
 I have forgot Fourth commit
 What about me?
 I am interesting in programming
+Also i cant stand cmd
